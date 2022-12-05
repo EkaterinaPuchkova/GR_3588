@@ -1,0 +1,15 @@
+C:\GR_3588\GR_3588\Sem2Task9\bin\Debug\net6.0\Sem2Task9.exe
+C:\GR_3588\GR_3588\Sem2Task9\bin\Debug\net6.0\Sem2Task9.deps.json
+C:\GR_3588\GR_3588\Sem2Task9\bin\Debug\net6.0\Sem2Task9.runtimeconfig.json
+C:\GR_3588\GR_3588\Sem2Task9\bin\Debug\net6.0\Sem2Task9.dll
+C:\GR_3588\GR_3588\Sem2Task9\bin\Debug\net6.0\Sem2Task9.pdb
+C:\GR_3588\GR_3588\Sem2Task9\obj\Debug\net6.0\Sem2Task9.csproj.AssemblyReference.cache
+C:\GR_3588\GR_3588\Sem2Task9\obj\Debug\net6.0\Sem2Task9.GeneratedMSBuildEditorConfig.editorconfig
+C:\GR_3588\GR_3588\Sem2Task9\obj\Debug\net6.0\Sem2Task9.AssemblyInfoInputs.cache
+C:\GR_3588\GR_3588\Sem2Task9\obj\Debug\net6.0\Sem2Task9.AssemblyInfo.cs
+C:\GR_3588\GR_3588\Sem2Task9\obj\Debug\net6.0\Sem2Task9.csproj.CoreCompileInputs.cache
+C:\GR_3588\GR_3588\Sem2Task9\obj\Debug\net6.0\Sem2Task9.dll
+C:\GR_3588\GR_3588\Sem2Task9\obj\Debug\net6.0\refint\Sem2Task9.dll
+C:\GR_3588\GR_3588\Sem2Task9\obj\Debug\net6.0\Sem2Task9.pdb
+C:\GR_3588\GR_3588\Sem2Task9\obj\Debug\net6.0\Sem2Task9.genruntimeconfig.cache
+C:\GR_3588\GR_3588\Sem2Task9\obj\Debug\net6.0\ref\Sem2Task9.dll
