@@ -1,0 +1,15 @@
+C:\GR_3588\GR_3588\Sem3Task17\obj\Debug\net6.0\Sem3Task17.csproj.AssemblyReference.cache
+C:\GR_3588\GR_3588\Sem3Task17\obj\Debug\net6.0\Sem3Task17.GeneratedMSBuildEditorConfig.editorconfig
+C:\GR_3588\GR_3588\Sem3Task17\obj\Debug\net6.0\Sem3Task17.AssemblyInfoInputs.cache
+C:\GR_3588\GR_3588\Sem3Task17\obj\Debug\net6.0\Sem3Task17.AssemblyInfo.cs
+C:\GR_3588\GR_3588\Sem3Task17\obj\Debug\net6.0\Sem3Task17.csproj.CoreCompileInputs.cache
+C:\GR_3588\GR_3588\Sem3Task17\bin\Debug\net6.0\Sem3Task17.exe
+C:\GR_3588\GR_3588\Sem3Task17\bin\Debug\net6.0\Sem3Task17.deps.json
+C:\GR_3588\GR_3588\Sem3Task17\bin\Debug\net6.0\Sem3Task17.runtimeconfig.json
+C:\GR_3588\GR_3588\Sem3Task17\bin\Debug\net6.0\Sem3Task17.dll
+C:\GR_3588\GR_3588\Sem3Task17\bin\Debug\net6.0\Sem3Task17.pdb
+C:\GR_3588\GR_3588\Sem3Task17\obj\Debug\net6.0\Sem3Task17.dll
+C:\GR_3588\GR_3588\Sem3Task17\obj\Debug\net6.0\refint\Sem3Task17.dll
+C:\GR_3588\GR_3588\Sem3Task17\obj\Debug\net6.0\Sem3Task17.pdb
+C:\GR_3588\GR_3588\Sem3Task17\obj\Debug\net6.0\Sem3Task17.genruntimeconfig.cache
+C:\GR_3588\GR_3588\Sem3Task17\obj\Debug\net6.0\ref\Sem3Task17.dll
