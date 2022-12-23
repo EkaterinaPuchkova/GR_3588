@@ -1,0 +1,15 @@
+C:\GR_3588\GR_3588\Sem7Task48\bin\Debug\net6.0\Sem7Task48.exe
+C:\GR_3588\GR_3588\Sem7Task48\bin\Debug\net6.0\Sem7Task48.deps.json
+C:\GR_3588\GR_3588\Sem7Task48\bin\Debug\net6.0\Sem7Task48.runtimeconfig.json
+C:\GR_3588\GR_3588\Sem7Task48\bin\Debug\net6.0\Sem7Task48.dll
+C:\GR_3588\GR_3588\Sem7Task48\bin\Debug\net6.0\Sem7Task48.pdb
+C:\GR_3588\GR_3588\Sem7Task48\obj\Debug\net6.0\Sem7Task48.csproj.AssemblyReference.cache
+C:\GR_3588\GR_3588\Sem7Task48\obj\Debug\net6.0\Sem7Task48.GeneratedMSBuildEditorConfig.editorconfig
+C:\GR_3588\GR_3588\Sem7Task48\obj\Debug\net6.0\Sem7Task48.AssemblyInfoInputs.cache
+C:\GR_3588\GR_3588\Sem7Task48\obj\Debug\net6.0\Sem7Task48.AssemblyInfo.cs
+C:\GR_3588\GR_3588\Sem7Task48\obj\Debug\net6.0\Sem7Task48.csproj.CoreCompileInputs.cache
+C:\GR_3588\GR_3588\Sem7Task48\obj\Debug\net6.0\Sem7Task48.dll
+C:\GR_3588\GR_3588\Sem7Task48\obj\Debug\net6.0\refint\Sem7Task48.dll
+C:\GR_3588\GR_3588\Sem7Task48\obj\Debug\net6.0\Sem7Task48.pdb
+C:\GR_3588\GR_3588\Sem7Task48\obj\Debug\net6.0\Sem7Task48.genruntimeconfig.cache
+C:\GR_3588\GR_3588\Sem7Task48\obj\Debug\net6.0\ref\Sem7Task48.dll
